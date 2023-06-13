@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinguaFlow</string>
+    <string name="logIn">Авторизация</string>
+    <string name="passwordLine">Пароль</string>
+    <string name="loginLine">Логин</string>
+    <string name="LogInBtn">Войти</string>
+    <string name="toSingUpBtn">Регистрация</string>
+    <string name="fullnameLine">Полное имя</string>
+    <string name="SingUpBtn">Зарегистрироваться</string>
+</resources>
